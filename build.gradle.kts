@@ -6,6 +6,7 @@ plugins {
     id("org.flywaydb.flyway") version "9.3.0"
     kotlin("jvm") version "1.6.21"
     kotlin("plugin.spring") version "1.6.21"
+    kotlin("plugin.jpa") version "1.6.21"
 }
 
 group = "com.github.hotire"
